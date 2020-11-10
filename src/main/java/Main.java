@@ -23,6 +23,6 @@ class Main {
             hand[i] = cardNumbers[randomCard][randomCard2];
             System.out.println(hand[i]);
         }
-        System.out.println("These are your cards");
+        System.out.println("These are your cards!");
     }
 }
